@@ -1,2 +1,2 @@
-# first-repositoty
-Getting started with Github
+# MyFirstRep
+Getting started with GitHub
