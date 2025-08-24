@@ -1,2 +1,5 @@
 # MyFirstRep
-Getting started with GitHub
+
+Testing repositories
+
+This is the first markdown file
